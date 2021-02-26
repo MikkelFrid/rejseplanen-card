@@ -27,10 +27,10 @@ class RejseplanenCard extends HTMLElement {
           padding: 6px 10px;
         }
         .type-custom-rejseplanen-card tr:nth-child(even) {
-          background: #4AA5E5;
+          background: none;
         }
         .type-custom-rejseplanen-card tr:nth-child(odd) {
-          background: #4AA5E5;
+          background: none;
         }
         .type-custom-rejseplanen-card td {
           padding: 3px 0px;
@@ -45,8 +45,8 @@ class RejseplanenCard extends HTMLElement {
         }
         .type-custom-rejseplanen-card span.route {
           font-weight: bold;
-          font-size:0.9em;
-          padding:3px 8px 2px 8px;
+          font-size:1.2em;
+          padding:4px 10px 3px 10px;
           color: #fff;
           background-color: #888;
           margin-right:0.7em;
