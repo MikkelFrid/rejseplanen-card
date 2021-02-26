@@ -68,8 +68,9 @@ Add a custom element in your `ui-lovelace.yaml`
         show_scheduled_time: true # Optional
         max_entries: 5 # Optional
 ```
-
+test
 
 ## Credits
 
 Based on [cgtobi](https://github.com/cgtobi) and [DavidMStraub](https://github.com/DavidMStraub)'s work: https://github.com/cgtobi/rmv-card
+
