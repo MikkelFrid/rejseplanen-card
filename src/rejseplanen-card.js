@@ -21,11 +21,6 @@ class RejseplanenCard extends HTMLElement {
 
     if (!this.content) {
       const card = document.createElement('ha-card');
-      if (name == ' ') {
-        card.header = '';
-      } else {
-        card.header = name;
-      }
       this.content = document.createElement('div');
       const style = document.createElement('style');
       style.textContent = `
